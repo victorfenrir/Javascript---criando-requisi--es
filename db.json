@@ -90,6 +90,20 @@
       "url": "https://www.youtube.com/embed/I5aKvXoRqqo",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
+    },
+    {
+      "titulo": "Como começar com React ainda em 2022",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/35jb4FeQSe4",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 13
+    },
+    {
+      "titulo": "IMMINENCE - Turn The Light On (FULL ALBUM STREAM)",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/vtOr9_RfXRw",
+      "imagem": "https://www.contrapromotion.com/media/5c/7f/8b/1680165806/Imminence_ARTIKEL.jpg",
+      "id": 14
     }
   ]
 }
